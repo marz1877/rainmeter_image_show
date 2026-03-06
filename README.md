@@ -14,7 +14,5 @@
 4. Load the skin.
 5. Edit .ini to your choseen folder
 
-# Features
-
 ## Licence
 Don't copy code wthout permission.
