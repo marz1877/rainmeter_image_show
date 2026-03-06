@@ -7,9 +7,11 @@
 1. Customize Time
 
 # Installation
-1. Download this repo
-2. Extract it with all files inside a folder
-3. Move folder under Rainmeter\Skins
+1. Download this repo [https://github.com/marz1877/rainmeter_image_show/archive/refs/heads/main.zip]
+2. Extract it with all files inside a folder.
+3. Move folder under Rainmeter\Skins.
+4. Load the skin.
+5. Edit .ini to your choseen folder
 
 # Features
 
